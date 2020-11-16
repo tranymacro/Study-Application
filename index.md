@@ -11,19 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# This a study game for to help learn c#
+## The Game have 10 questions and answers about C3 terms
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- 10 Questions
+- 10 Answers
+
+
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://github.com/tranymacro](my url)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
