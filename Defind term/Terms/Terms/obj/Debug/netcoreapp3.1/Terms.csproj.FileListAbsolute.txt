@@ -1,0 +1,13 @@
+C:\Users\kingwalter\OneDrive\Desktop\Defind term\Terms\Terms\bin\Debug\netcoreapp3.1\Terms.exe
+C:\Users\kingwalter\OneDrive\Desktop\Defind term\Terms\Terms\bin\Debug\netcoreapp3.1\Terms.deps.json
+C:\Users\kingwalter\OneDrive\Desktop\Defind term\Terms\Terms\bin\Debug\netcoreapp3.1\Terms.runtimeconfig.json
+C:\Users\kingwalter\OneDrive\Desktop\Defind term\Terms\Terms\bin\Debug\netcoreapp3.1\Terms.runtimeconfig.dev.json
+C:\Users\kingwalter\OneDrive\Desktop\Defind term\Terms\Terms\bin\Debug\netcoreapp3.1\Terms.dll
+C:\Users\kingwalter\OneDrive\Desktop\Defind term\Terms\Terms\bin\Debug\netcoreapp3.1\Terms.pdb
+C:\Users\kingwalter\OneDrive\Desktop\Defind term\Terms\Terms\obj\Debug\netcoreapp3.1\Terms.csprojAssemblyReference.cache
+C:\Users\kingwalter\OneDrive\Desktop\Defind term\Terms\Terms\obj\Debug\netcoreapp3.1\Terms.AssemblyInfoInputs.cache
+C:\Users\kingwalter\OneDrive\Desktop\Defind term\Terms\Terms\obj\Debug\netcoreapp3.1\Terms.AssemblyInfo.cs
+C:\Users\kingwalter\OneDrive\Desktop\Defind term\Terms\Terms\obj\Debug\netcoreapp3.1\Terms.csproj.CoreCompileInputs.cache
+C:\Users\kingwalter\OneDrive\Desktop\Defind term\Terms\Terms\obj\Debug\netcoreapp3.1\Terms.dll
+C:\Users\kingwalter\OneDrive\Desktop\Defind term\Terms\Terms\obj\Debug\netcoreapp3.1\Terms.pdb
+C:\Users\kingwalter\OneDrive\Desktop\Defind term\Terms\Terms\obj\Debug\netcoreapp3.1\Terms.genruntimeconfig.cache
